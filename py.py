@@ -5,7 +5,7 @@ from openpyxl.styles import Font, Color, Fill, PatternFill, GradientFill, Border
 ##########################
 #                        #
 #       written by:      #
-#   Rentix Productions   #
+#   Rentix               #
 #                        #
 ##########################
 
